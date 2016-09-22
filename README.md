@@ -1,5 +1,5 @@
 # SnakeGame
-A mini-game, programmed with . Have fun!
+A mini-game, programmed with processing. Have fun!
 
 Processing is an open source computer programming language.
 The Processing language builds on the Java language, but uses a simplified syntax and a graphics user interface.
